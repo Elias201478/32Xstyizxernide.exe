@@ -4,6 +4,8 @@ this is my new Trojan.
 credits to: gabrodev for monoxide error with in old school plasmas in there.
 wipet made the monoxide error in 2021 btw
 
+# GNU/PSA
+
 **This project is licensed with AGPL 3.0!** 
 
 which means, if you take the whole code or the monoxide error youll have to make it open-source and give me credit.
