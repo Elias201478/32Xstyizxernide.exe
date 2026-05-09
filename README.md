@@ -2,7 +2,8 @@
 this is my new Trojan.
 
 credits to: gabrodev for monoxide error with in old school plasmas in there.
-wipet made the monoxide error in 2021 btw
+wipet made the monoxide error in 2021.
+Trojan what i made with a little effects.
 
 # GNU/PSA
 
